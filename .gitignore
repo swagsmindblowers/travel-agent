@@ -1,0 +1,4 @@
+memory/
+**/memory/profile.json
+__pycache__/
+*.pyc
